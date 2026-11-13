@@ -1,7 +1,6 @@
 package com.example.p9.Repository
 
 import android.content.Context
-import com.example.p9.room.DatabaseSiswa
 import com.example.p9.roomdb.DatabaseSiswa
 import kotlin.getValue
 
